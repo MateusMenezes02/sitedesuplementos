@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://www.actionacademia.com.br/background2.jpg);
+}
+
+label {
+    display: block;
+    font: .9rem 'Fira Sans', sans-serif;
+    color: white;
+}
+
+input {
+    border-radius: 20px;
+}
+
+input[type='submit'],
+label {
+    margin-top: 1rem;
+}
+
+.container {
+    position: relative;
+    left: 450px;
+    top: 100px;
+}
+

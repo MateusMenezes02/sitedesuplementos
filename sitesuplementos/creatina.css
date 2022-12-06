@@ -1,0 +1,23 @@
+body{
+    background-image: url(https://www.actionacademia.com.br/background2.jpg);
+}
+
+img {
+    position: relative;
+    left: 510px;
+}
+.info {
+    text-align: center;
+    color: whitesmoke;
+    font-size: 25px;
+    opacity: 0.5;
+}
+
+.info:hover {
+    background-color: rgb(56, 58, 63);
+    border-radius: 20px;
+    box-shadow: rgba(255, 255, 255, 0.815) 0px 5px 15px;
+    transition: 200ms linear;
+    opacity: 1;
+    
+}

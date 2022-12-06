@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://www.actionacademia.com.br/background2.jpg);
+}
+
+h1 {
+    text-align: center;
+    background-color: gray;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 20px;
+    color: white;
+}
+
+a {
+    position: relative;
+    left: 625px;
+    top: 200px;
+    background-color: gray  ;
+}
